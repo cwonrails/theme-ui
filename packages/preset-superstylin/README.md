@@ -1,6 +1,6 @@
-# [@theme-ui/preset-base](https://theme-ui.com/presets/base)
+# [@theme-ui/preset-superstylin](https://theme-ui.com/presets/base)
 
-Theme UI includes `@theme-ui/preset-base` which can be used as an example or
+Theme UI includes `@theme-ui/preset-superstylin` which can be used as an example or
 starting point for extending your own themes.
 
 ```sh
@@ -9,7 +9,7 @@ npm i @theme-ui/preset-base
 
 ```jsx
 // example theme
-import theme from '@theme-ui/preset-base'
+import theme from '@theme-ui/preset-superstylin'
 
 export default {
   ...theme,
@@ -28,5 +28,4 @@ If you'd like to add a new preset or improve upon the existing ones, please open
 
 [issue]: https://github.com/system-ui/theme-ui/issues
 [pull request]: https://github.com/system-ui/theme-ui/pulls
-
 [demo]: https://theme-ui.com/demo
